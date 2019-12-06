@@ -1,0 +1,9 @@
+[core]
+	editor = vim
+	safecrlf = true
+	filemode = false
+[credential]
+	helper = cache --timeout=3600000
+[user]
+	name = t0m-a
+	email = 
